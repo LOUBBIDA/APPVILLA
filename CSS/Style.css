@@ -1,0 +1,122 @@
+.btn1{
+    background-color:  #ff6b81 !important; 
+    border: white !important;
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: 600;
+    width: 200px;
+    height: 60px;
+    border-radius: 5px;
+     
+}
+.hero-area {
+    position: relative;
+    padding: 10px 0 120px 0;
+    background: #ff6b81;
+}
+.hero-area .hero-content .button .btn {
+    background-color: #fff;
+    color: #ff6b81;
+    margin-right: 12px;
+}
+.hero-area .hero-content h1 {
+    font-size: 38px;
+    font-weight: 800;
+    line-height: 50px;
+    color: #fff;
+    text-shadow: 0px 3px 8px #00000017;
+    text-transform: capitalize;
+}
+.col-md-4{
+    padding-top: -50px;
+}
+ 
+
+.text{
+    padding-top:40px; 
+}
+.text1{
+    color:#ff6b81 !important ;
+}
+.mx-200{
+    margin-top: 50PX;
+}
+.icon{
+     margin: 10px 20px;
+     width: 40px;
+     height: 40px;
+     border-radius:5px ;
+    color: white;
+    background-color: #ff6b81;
+}
+.h2{
+    font-size: 34px;
+    margin-bottom: 25px;
+    line-height: 42px;
+    text-transform: capitalize;
+    
+    position: relative;
+    font-weight: 800;
+    padding-left: 10px;
+}
+ .card{
+     margin: 30px;
+ }
+ .w-100{
+     width: 500px;
+     height: 700px;
+     margin-bottom: 100px;
+
+
+ }
+ .row{
+     margin-top: 100px;
+ }
+ .col-md-6.mx-200{
+     padding-left: 200px;
+     padding-top: 100px;
+ }
+ .pourcentage{
+     background-color: #ff6b81;
+ }
+ .pourcentage.row{
+     margin-top: 100px;
+     padding: 200px;
+ }
+ h3{
+     
+    
+    font-size: 49px;
+    font-weight: 800;
+    padding: 78px;
+    margin-bottom: 200px;
+ }
+.span{
+     font-size: small !important;
+ }
+.card1{
+     height: 300px;
+     border:solid gray 1px;
+     border-radius: 5px;
+     position: relative;
+ }
+  .btn2{
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    bottom: 150px;
+  }
+  .btn3{
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    bottom:  203px;
+  }
+ .card-title{
+     font-size: large!important;
+ }
+ .btn{
+    position: absolute;
+    top: 334px;
+    right: 50px;
+ }
